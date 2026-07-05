@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+e8f1531ff8a2d639f79f52e87782d3af pony/CMakeFiles/PonyCombineIncGen
+bc75ce52f8f6d411ce347234db8cbe43 pony/PonyCombine.inc
+2b1a31698281dca6d74aab6d0a1b4cef pony/include/pony/CMakeFiles/PonyOpsIncGen
+2b1a31698281dca6d74aab6d0a1b4cef pony/include/pony/CMakeFiles/PonyShapeInferenceInterfaceIncGen
+88d370271a5936244674cff002ab6e60 pony/include/pony/Dialect.cpp.inc
+5cdad3400f3c48a0926841ad8d74a7cd pony/include/pony/Dialect.h.inc
+d6f09dd81a4b31128d862161b5c933e7 pony/include/pony/Ops.cpp.inc
+22115a3938d587f07eaf5fd14d4e7f8c pony/include/pony/Ops.h.inc
+323419336b745ebe1784bd315a33d7ca pony/include/pony/ShapeInferenceOpInterfaces.cpp.inc
+c6befb045e7bf61c083ebfb05bde74fd pony/include/pony/ShapeInferenceOpInterfaces.h.inc
